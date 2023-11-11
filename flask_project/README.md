@@ -10,4 +10,3 @@ Scroll project "Podruga iz Sochi"
 ```pip install requirements.txt```
 ## Third is to run app.py
 ```python3 -m flask --app app.py --debug run```
-
